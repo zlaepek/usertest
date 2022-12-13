@@ -1,0 +1,5 @@
+zlaepek\city\controllers\UserController.class
+zlaepek\city\models\User$UserBuilder.class
+zlaepek\city\models\User.class
+zlaepek\city\dto\UserRequestDto.class
+zlaepek\city\dto\UserResponseDto.class
